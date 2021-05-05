@@ -1,0 +1,4 @@
+/node_modules
+ 
+#  Ignorar el contenido de una carpeta
+/salida/*.txt
